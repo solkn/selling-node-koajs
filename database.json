@@ -1,0 +1,27 @@
+{
+  "defaultEnv": "localhost",
+  "localhost": {
+    "driver": "mysql",
+    "host": "localhost",
+    "user": "root",
+    "password": "23364079",
+    "database": "OptimumLevel",
+    "multipleStatements": true
+  },
+  "development": {
+    "driver": "mysql",
+    "host": "localhost",
+    "user": "root",
+    "password": "23364079",
+    "database": "OptimumLevel",
+    "multipleStatements": true
+  },
+  "production": {
+    "driver": "mysql",
+    "host": "localhost",
+    "user": "root",
+    "password": "23364079",
+    "database": "OptimumLevel",
+    "multipleStatements": true
+  }
+}

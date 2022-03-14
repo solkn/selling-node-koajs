@@ -1,0 +1,27 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "port":3306,
+    "password": "23364079",
+    "database": "OptimumLevel"
+  },
+  "gmail": {
+    "user": "optimumlevel.com@gmail.com",
+    "pass": "123Qwe12@"
+  },
+  "robotAuthorization": "cVebdgIrOPmHnCvcCObjByCgk0XvzMgNCemLEdpfP9x7ZMmAQnLDYNHzo7zP==",
+  "admin": {
+    "username": "admin",
+    "password": "Alice@123",
+    "token": "hSgJAu4UMRfvQThNkOOpQo4efQ86iapvqptEtGrsZd0dZUb6mpho6hbfCXKK=="
+  },
+  "alice": {
+    "apiUrl": "https://ant.aliceblueonline.com/api/v2/"
+  },
+  "razorPay": {
+    "keyId": "rzp_test_jvg6pB3RtjEqlo",
+    "keySecret": "ba0O9QX4kIhlgyTDiJjm56UV",
+    "webHookSecret": "XyszE6wh8cjLpHQff2rA01cIReyf0eSWkWfTpOxB53Y3eANoRs"
+  }
+}
